@@ -11,6 +11,7 @@
 		D666EC9E28A1497800DE5130 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D666EC9D28A1497800DE5130 /* ContentView.swift */; };
 		D666ECA028A1497C00DE5130 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D666EC9F28A1497C00DE5130 /* Assets.xcassets */; };
 		D666ECA328A1497C00DE5130 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D666ECA228A1497C00DE5130 /* Preview Assets.xcassets */; };
+		D666ECAA28A152B500DE5130 /* CodableConformanceFor@Published.swift in Sources */ = {isa = PBXBuildFile; fileRef = D666ECA928A152B400DE5130 /* CodableConformanceFor@Published.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D666EC9D28A1497800DE5130 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D666EC9F28A1497C00DE5130 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D666ECA228A1497C00DE5130 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D666ECA928A152B400DE5130 /* CodableConformanceFor@Published.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CodableConformanceFor@Published.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D666EC9B28A1497800DE5130 /* CupcakeCornerApp.swift */,
 				D666EC9D28A1497800DE5130 /* ContentView.swift */,
+				D666ECA928A152B400DE5130 /* CodableConformanceFor@Published.swift */,
 				D666EC9F28A1497C00DE5130 /* Assets.xcassets */,
 				D666ECA128A1497C00DE5130 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				D666EC9E28A1497800DE5130 /* ContentView.swift in Sources */,
 				D666EC9C28A1497800DE5130 /* CupcakeCornerApp.swift in Sources */,
+				D666ECAA28A152B500DE5130 /* CodableConformanceFor@Published.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
