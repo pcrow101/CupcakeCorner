@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6D88046828A9340E0030C2EF /* SongListFromiTunes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D88046728A9340E0030C2EF /* SongListFromiTunes.swift */; };
+		6D88046A28A936AF0030C2EF /* AsyncImageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D88046928A936AF0030C2EF /* AsyncImageExample.swift */; };
+		6D88046C28A938420030C2EF /* ValidateAndDisableForms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D88046B28A938420030C2EF /* ValidateAndDisableForms.swift */; };
+		6D88046E28A938F80030C2EF /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D88046D28A938F80030C2EF /* Order.swift */; };
+		6D88047028A93E950030C2EF /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D88046F28A93E950030C2EF /* AddressView.swift */; };
 		D666EC9C28A1497800DE5130 /* CupcakeCornerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D666EC9B28A1497800DE5130 /* CupcakeCornerApp.swift */; };
 		D666EC9E28A1497800DE5130 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D666EC9D28A1497800DE5130 /* ContentView.swift */; };
 		D666ECA028A1497C00DE5130 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D666EC9F28A1497C00DE5130 /* Assets.xcassets */; };
@@ -15,6 +20,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6D88046728A9340E0030C2EF /* SongListFromiTunes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongListFromiTunes.swift; sourceTree = "<group>"; };
+		6D88046928A936AF0030C2EF /* AsyncImageExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageExample.swift; sourceTree = "<group>"; };
+		6D88046B28A938420030C2EF /* ValidateAndDisableForms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateAndDisableForms.swift; sourceTree = "<group>"; };
+		6D88046D28A938F80030C2EF /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		6D88046F28A93E950030C2EF /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
 		D666EC9828A1497800DE5130 /* CupcakeCorner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CupcakeCorner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D666EC9B28A1497800DE5130 /* CupcakeCornerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CupcakeCornerApp.swift; sourceTree = "<group>"; };
 		D666EC9D28A1497800DE5130 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +65,11 @@
 			children = (
 				D666EC9B28A1497800DE5130 /* CupcakeCornerApp.swift */,
 				D666EC9D28A1497800DE5130 /* ContentView.swift */,
+				6D88046D28A938F80030C2EF /* Order.swift */,
+				6D88046F28A93E950030C2EF /* AddressView.swift */,
+				6D88046B28A938420030C2EF /* ValidateAndDisableForms.swift */,
+				6D88046928A936AF0030C2EF /* AsyncImageExample.swift */,
+				6D88046728A9340E0030C2EF /* SongListFromiTunes.swift */,
 				D666ECA928A152B400DE5130 /* CodableConformanceFor@Published.swift */,
 				D666EC9F28A1497C00DE5130 /* Assets.xcassets */,
 				D666ECA128A1497C00DE5130 /* Preview Content */,
@@ -140,9 +155,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D88046C28A938420030C2EF /* ValidateAndDisableForms.swift in Sources */,
 				D666EC9E28A1497800DE5130 /* ContentView.swift in Sources */,
 				D666EC9C28A1497800DE5130 /* CupcakeCornerApp.swift in Sources */,
+				6D88046A28A936AF0030C2EF /* AsyncImageExample.swift in Sources */,
+				6D88046828A9340E0030C2EF /* SongListFromiTunes.swift in Sources */,
+				6D88047028A93E950030C2EF /* AddressView.swift in Sources */,
 				D666ECAA28A152B500DE5130 /* CodableConformanceFor@Published.swift in Sources */,
+				6D88046E28A938F80030C2EF /* Order.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
